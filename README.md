@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sivaDev1212
+- 👋 Hi, I’m Siva
 - 👀 I’m interested in Full Stack Development(Vue.js, Nodejs, Javascript, React, Java, Mysql,Html, Css)
 - 🌱 I’m currently learning React, Java, Node.js
 - 💞️ I’m looking to collaborate on ...
