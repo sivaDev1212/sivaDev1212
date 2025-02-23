@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Siva
-- 👀 I’m interested in Full Stack Development(Vue.js, Nodejs, Javascript, React, Java, Mysql,Html, Css)
-- 🌱 I’m currently learning Node.js
+- 👋 Hi, I’m Siva a Full Stack Development(Vue.js, Nodejs, Javascript, React, Mysql,Html, Css)
+- 👀 I’m interested in coding some stuff evey day
+- 🌱 I’m currently learning Micro-service architecture
 - 📫 How to reach me  connectwithsivaprasad@gmail.com
 - ⚡ Portfolio: https://siva-port-folio.netlify.app/
 
