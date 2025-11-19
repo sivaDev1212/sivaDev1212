@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding some stuff evey day
 - 🌱 I’m currently learning Micro-service architecture
 - 📫 How to reach me  connectwithsivaprasad@gmail.com
-- ⚡ Portfolio: https://siva-port-folio.netlify.app/
+- ⚡ Portfolio: https://sivaprasad-profile.netlify.app
 
 <!---
 sivaDev1212/sivaDev1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
