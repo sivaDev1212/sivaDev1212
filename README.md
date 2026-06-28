@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Siva a Full Stack Development(Vue.js, Nodejs, Javascript, React, Mysql,Html, Css)
-- 👀 I’m interested in coding some stuff evey day
-- 🌱 I’m currently learning Micro-service architecture
+- 👋 Hi, I’m Sivaprasad a Full Stack Development(Ai-integrations, Vue.js, React, Nodejs, Javascript, Typescript, Firebase, Mysql, Html, Css, AWS, Netlify)
+- 👀 I’m interested in solving problems
+- 🌱 I’m currently learning RAG architecture and Python
 - 📫 How to reach me  connectwithsivaprasad@gmail.com
 - ⚡ Portfolio: https://sivaprasad-profile.netlify.app
 
